@@ -9,6 +9,7 @@ namespace SOLID.Classes
             Weight = weight;
             Diameter = diameter;
             Temperature = temp;
+            Action(new Born());
         }
         public GigantPlanet(){}
         public double Temperature {get;set;}

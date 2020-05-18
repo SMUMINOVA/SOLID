@@ -8,6 +8,7 @@ namespace SOLID.Classes
             Name = name;
             Weight = weight;
             Diameter = diameter;
+            Action(new Born());
         }
         public EarthTypePlanet(){}
         public string Name     { get; set ; }
