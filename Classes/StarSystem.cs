@@ -8,7 +8,7 @@ namespace SOLID.Classes
             s = SystemsStar;
         }
         public Star SystemsStar {get;set;}
-        public List<EarthTypePlanet> EPlanets{get;set;}
-        public List<GigantPlanet> GPlanets{get;set;}
+        public List<EarthTypePlanet> EPlanets{get;set;} = new List<EarthTypePlanet>();
+        public List<GigantPlanet> GPlanets{get;set;} = new List<GigantPlanet>();
     }
 }

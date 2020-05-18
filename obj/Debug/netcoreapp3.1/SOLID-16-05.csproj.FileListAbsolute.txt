@@ -1,0 +1,13 @@
+/home/sobira/Рабочий стол/c#/SOLID-16-05/bin/Debug/netcoreapp3.1/SOLID-16-05
+/home/sobira/Рабочий стол/c#/SOLID-16-05/bin/Debug/netcoreapp3.1/SOLID-16-05.deps.json
+/home/sobira/Рабочий стол/c#/SOLID-16-05/bin/Debug/netcoreapp3.1/SOLID-16-05.runtimeconfig.json
+/home/sobira/Рабочий стол/c#/SOLID-16-05/bin/Debug/netcoreapp3.1/SOLID-16-05.runtimeconfig.dev.json
+/home/sobira/Рабочий стол/c#/SOLID-16-05/bin/Debug/netcoreapp3.1/SOLID-16-05.dll
+/home/sobira/Рабочий стол/c#/SOLID-16-05/bin/Debug/netcoreapp3.1/SOLID-16-05.pdb
+/home/sobira/Рабочий стол/c#/SOLID-16-05/obj/Debug/netcoreapp3.1/SOLID-16-05.csprojAssemblyReference.cache
+/home/sobira/Рабочий стол/c#/SOLID-16-05/obj/Debug/netcoreapp3.1/SOLID-16-05.csproj.CoreCompileInputs.cache
+/home/sobira/Рабочий стол/c#/SOLID-16-05/obj/Debug/netcoreapp3.1/SOLID-16-05.AssemblyInfoInputs.cache
+/home/sobira/Рабочий стол/c#/SOLID-16-05/obj/Debug/netcoreapp3.1/SOLID-16-05.AssemblyInfo.cs
+/home/sobira/Рабочий стол/c#/SOLID-16-05/obj/Debug/netcoreapp3.1/SOLID-16-05.dll
+/home/sobira/Рабочий стол/c#/SOLID-16-05/obj/Debug/netcoreapp3.1/SOLID-16-05.pdb
+/home/sobira/Рабочий стол/c#/SOLID-16-05/obj/Debug/netcoreapp3.1/SOLID-16-05.genruntimeconfig.cache

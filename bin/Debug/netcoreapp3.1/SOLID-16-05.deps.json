@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOLID-16-05/1.0.0": {
+        "runtime": {
+          "SOLID-16-05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID-16-05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
