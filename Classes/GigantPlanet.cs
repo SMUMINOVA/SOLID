@@ -10,6 +10,7 @@ namespace SOLID.Classes
             Diameter = diameter;
             Temperature = temp;
         }
+        public GigantPlanet(){}
         public double Temperature {get;set;}
         public string Name     { get ; set ; }
         public long Weight     { get ; set ; }

@@ -4,7 +4,14 @@ namespace SOLID.Classes
 {
     public class Star : IPlanet
     {
-
+        public Star(string name,long weight, double diameter, double temp){
+            Name = name;
+            Weight = weight;
+            Diameter = diameter;
+            Temperature = temp;
+            Action(new Born());
+        }
+        public Star(){}
         public string Name     { get ; set ; }
         public long Weight     { get ; set ; }
         public double Diameter { get ; set ; }
@@ -13,7 +20,7 @@ namespace SOLID.Classes
         {
             act.Do(Name);
         }
-        public void Detonate(PlanetsDeath die){  //взрыв звезды
+        public void Detonate(Death die){  //взрыв звезды
             System.Console.WriteLine($"{Name} was detonated");
             die.Do(Name);
         }

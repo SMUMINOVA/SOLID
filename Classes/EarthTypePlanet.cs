@@ -9,6 +9,7 @@ namespace SOLID.Classes
             Weight = weight;
             Diameter = diameter;
         }
+        public EarthTypePlanet(){}
         public string Name     { get; set ; }
         public long Weight     { get; set ; }
         public double Diameter { get; set ; }

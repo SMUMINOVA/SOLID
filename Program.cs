@@ -1,4 +1,5 @@
 ﻿using System;
+using SOLID.Classes;
 
 namespace SOLID_16_05
 {
@@ -6,7 +7,7 @@ namespace SOLID_16_05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var SolarSystem = new StarSystem(new Star());
         }
     }
 }

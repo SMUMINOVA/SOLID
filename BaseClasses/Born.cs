@@ -1,7 +1,7 @@
 using System;
 namespace SOLID.BaseClasses
 {
-    public class PlanetsBorn : IPlanetActions
+    public class Born : IPlanetActions
     {
         public void Do(string planet)
         {

@@ -1,6 +1,6 @@
 namespace SOLID.BaseClasses
 {
-    public class PlanetsDeath : IPlanetActions
+    public class Death : IPlanetActions
     {
         public void Do(string planet)
         {
